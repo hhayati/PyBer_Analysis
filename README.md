@@ -4,7 +4,8 @@ The  goal of this exercise is to analyze the rideshare data from January to earl
 
 ## Results
 The ride sharing data based on city type is presented in the following table.
-![image](https://user-images.githubusercontent.com/58461542/167355214-6ea3055d-b025-4364-ac42-f42c1f61ab36.png)
+
+![image](https://user-images.githubusercontent.com/58461542/167358258-1c674352-b542-433b-9930-a88698fc87e8.png)
 
 * It is clear that the Urban areas have the largest number of rides, largest number of drivers and total fares. Suburban areas have the second largest total rides and total number of drivers. Rural areas have the smallest number of rides and drivers and accordingly the smallest total fares.
 
